@@ -1,11 +1,15 @@
 <div align="center">
-    <img src='https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif' style="border-radius: 15px">
+    <img src='https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif' style="border-radius: 12px">
 </div>
 <br>
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Vanessa González </h1>
+<h1 align="center">Hola, soy Vanessa González <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Soy estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile. 
+<p>
+    <span style="font-size: larger;"> Sobre mí </span>
+</p>
+
+Soy estudiante de Ingeniería Civil Eléctrica en la Universidad de Chile y me especialicé en Inteligencia Computacional y Robótica <img src="https://emojiisland.com/cdn/shop/products/Robot_Emoji_Icon_abe1111a-1293-4668-bdf9-9ceb05cff58e_large.png?v=1571606090" width="5px">. Mi principal área de interés es procesamiento de imágenes, por lo que me gustaría dedicarme a ello.
 
 </div>
 <br>
