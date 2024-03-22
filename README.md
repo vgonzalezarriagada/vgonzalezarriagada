@@ -1,5 +1,5 @@
 <div align="center">
-    <img src='banner.png' style="border-radius: 15px">
+    <img src='https://media1.tenor.com/m/29Ok5pc0ivAAAAAd/gatinho-gato.gif' style="border-radius: 15px">
 </div>
 <br>
 
