@@ -1,5 +1,5 @@
 <div align="center">
-    <img src='https://media1.tenor.com/m/29Ok5pc0ivAAAAAd/gatinho-gato.gif' style="border-radius: 15px">
+    <img src='https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif' style="border-radius: 15px">
 </div>
 <br>
 
